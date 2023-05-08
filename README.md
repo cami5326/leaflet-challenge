@@ -4,4 +4,4 @@ In this activity, it was requested a earthquake visualization of the [USGS data]
 
 ![earthquake visualization](https://github.com/cami5326/leaflet-challenge/blob/main/pictures/earthquake%20visualization.png)
 
-![greyscale visualization](https://github.com/cami5326/leaflet-challenge/blob/main/pictures/greyscale%20visualization.png)
+![greyscale visualization](https://github.com/cami5326/leaflet-challenge/blob/main/pictures/greyscale_visualization.png)
